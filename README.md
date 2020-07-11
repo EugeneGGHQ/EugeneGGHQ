@@ -6,17 +6,17 @@ I'm Eugene, one of the collaborators running a small gaming community based in G
 
 You can find more out about us here:
 
-🖥 gghq.io
+🖥 [Website](http://gghq.io)
 
-🎞 youtube.com/gghqio
+🎞 [Youtube](https://youtube.com/gghqio)
 
-👩‍💻 discord.gg/gghq
+👩‍💻 [Discord](https://discord.gg/gghq)
 
-🐤 twitter.com/gghqio
+🐤 [Twitter](https://twitter.com/gghqio)
 
-💟 twitch.tv/gghq_online
+💟 [Twitch](https://twitch.tv/gghq_online)
 
-📘 facebook.com/groups/gghqio
+📘 [Facebook](https://facebook.com/groups/gghqio)
 
 
 <!--

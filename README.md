@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Eugene, one of the collaborators running a small gaming community based in Gloucestershire,UK, called:
+I'm Eugene, one of the collaborators running a small gaming community based in Gloucestershire,UK:
 
 ### GGHQ
 

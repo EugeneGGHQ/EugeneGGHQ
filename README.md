@@ -14,7 +14,7 @@ You can find more out about us here:
 
 🐤 [Twitter](https://twitter.com/gghqio)
 
-💟 [Twitch](https://twitch.tv/gghq_online)
+💟 [Twitch](https://twitch.tv/gghqio)
 
 📘 [Facebook](https://facebook.com/groups/gghqio)
 

@@ -1,12 +1,12 @@
 # Hi there 👋
 
-I'm Eugene, one of the collaborators running a small gaming community based in Gloucestershire,UK:
+I'm Eugene, one of the collaborators running a small online gaming community based in Gloucestershire,UK:
 
 ### GGHQ
 
 You can find more out about us here:
 
-🖥 [Website](http://gghq.io)
+🖥 [Website](https://gghq.io)
 
 🎞 [Youtube](https://youtube.com/gghqio)
 
@@ -16,9 +16,11 @@ You can find more out about us here:
 
 💟 [Twitch](https://twitch.tv/gghqio)
 
-📘 [Facebook](https://facebook.com/groups/gghqio)
+- 🔭 I’m currently working on:
+  - 🎨[**MTA Charity Fundraiser 2023**](https://gghq.io/mta-fundraiser-2023)
+  - 🏎[**INKY 500 SIM RACING LEAGUE**](https://gghq.io/season/inky-500-season-2)
 
-
+  
 <!--
 **EugeneGGHQ/EugeneGGHQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

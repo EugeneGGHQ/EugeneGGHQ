@@ -16,7 +16,7 @@ You can find more out about us here:
 
 - 🔭 I’m currently working on:
   - 🏎[**INKY 500 SIM RACING LEAGUE**](https://gghq.io/season/season-4])
-  - 🎉IRL Community Meetups for our GGHQ Members
+  - 🩷 [**MTA Charity Fundraiser 2024**](https://gghq.io/mta-fundraiser-2024/)
 
 - ⚡ Recently completed:
   - 🏁[**INKY 500 Season 3**](https://youtube.com/playlist?list=PL7HkSV2T9R-33wibpq1FYT6HW2icjitgx&si=31WvMZf5-rO9uSZn)

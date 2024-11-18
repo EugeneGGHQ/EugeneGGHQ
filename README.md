@@ -16,11 +16,11 @@ You can find more out about us here:
 
 - 🔭 I’m currently working on:
   - 🏎[**INKY 500 SIM RACING LEAGUE**](https://gghq.io/inky-500-season-5)
-  - 🩷 [**MTA Charity Fundraiser 2024**](https://gghq.io/mta-fundraiser-2024/)
 
 - ⚡ Recently completed:
   - 🏁[**INKY 500 Season 3**](https://youtube.com/playlist?list=PL7HkSV2T9R-33wibpq1FYT6HW2icjitgx&si=31WvMZf5-rO9uSZn)
   - 🎨[**MTA Charity Fundraiser 2023**](https://gghq.io/mta-fundraiser-2023)
+  - 🩷 [**MTA Charity Fundraiser 2024**](https://gghq.io/mta-fundraiser-2024/)
   - 🎥[**MTA Charity Fundraiser Highlights Reel**](https://youtu.be/C9wmbcNYlCk)
 <!--
 **EugeneGGHQ/EugeneGGHQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

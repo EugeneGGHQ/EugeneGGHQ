@@ -10,7 +10,7 @@ You can find more out about us here:
 
 🎞 [Youtube](https://youtube.com/gghqio)
 
-👩‍💻 [Discord](https://discord.gg/zeW4Rs4rDe)
+👩‍💻 [Discord](https://discord.gg/rJEd3GP5JB)
 
 💟 [Twitch](https://twitch.tv/gghqio)
 

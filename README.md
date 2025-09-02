@@ -15,6 +15,7 @@ You can find more out about us here:
 💟 [Twitch](https://twitch.tv/gghqio)
 
 - 🔭 I’m currently working on:
+  - 💞[**MTA Charity Fundraiser 2025**](https://gghq.io/mta-fundraiser-2025/)
   - 🏎[**INKY 500 SIM RACING LEAGUE**](https://youtu.be/c72_8Z4Mv7k?si=7oJ_JTw7bWQrEyAU)
 
 - ⚡ Recently completed:
